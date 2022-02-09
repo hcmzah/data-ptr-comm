@@ -5,6 +5,7 @@ used to bypass game anti-cheats like easyanticheat and battleye
 
 ### notes
 tested on win ver 21h2
+
 i'm not sure if this is undetected as i chain different pointers (which i have deleted), so chaining might be a good idea
 
 ### the function
