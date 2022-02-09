@@ -24,9 +24,9 @@ __int64 (__fastcall *__fastcall NtUserSetGestureConfig(__int64 a1))(_QWORD)
 }
 ```
 assembly
-```sh
+```asm
 sub     rsp, 38h
-mov     rax, cs:qword_FFFFF97FFF065648 <-- our qword, signature created here
+mov     rax, cs:qword_FFFFF97FFF065648 // <-- our qword, signature created here
 test    rax, rax
 jz      short loc_FFFFF97FFF007DC0
 ```
