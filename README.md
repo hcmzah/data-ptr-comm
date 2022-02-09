@@ -1,5 +1,5 @@
 # data-ptr-comm
-communicate between usermode and kernelmode through a qword ptr argument
+communicate between usermode and kernelmode through a swapped qword ptr argument
 
 used to bypass game anti-cheats like easyanticheat and battleye
 
